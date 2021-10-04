@@ -1,0 +1,27 @@
+{
+  "name": "jours-feries-fr",
+  "version": "1.0.0",
+  "description": "Jours fériés en France",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clempr/jours-feries-fr.git"
+  },
+  "keywords": [
+    "fr",
+    "typescript",
+    "feries",
+    "jours",
+    "france"
+  ],
+  "author": "clem_pr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clempr/jours-feries-fr/issues"
+  },
+  "homepage": "https://github.com/clempr/jours-feries-fr#readme",
+  "dependencies": {
+    "dayjs": "^1.10.7"
+  }
+}
